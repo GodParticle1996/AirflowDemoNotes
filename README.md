@@ -1,6 +1,6 @@
 # Apache Airflow Notes
 
-Welcome to my Apache Airflow notes repository! This repository contains my personal notes on Apache Airflow, covering various topics related to workflow automation and management.
+Welcome to my Apache Airflow notes repository! This repository contains my personal notes on Apache Airflow, covering various workflow automation and management topics.
 
 ## Introduction
 
@@ -8,7 +8,7 @@ This repository serves as a compilation of notes, tips, and examples related to 
 
 ## Getting Started
 
-If you're new to Apache Airflow, consider checking out the official [Apache Airflow Documentation](https://airflow.apache.org/docs/stable/) for installation instructions, basic concepts, and tutorials.
+If you're new to Apache Airflow, check out the official [Apache Airflow Documentation](https://airflow.apache.org/docs/stable/) for installation instructions, basic concepts, and tutorials.
 
 ## Topics Covered
 
@@ -23,4 +23,4 @@ If you're new to Apache Airflow, consider checking out the official [Apache Airf
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/airflow-notes.git
+   git clone https://github.com/GodParticle1996/AirflowDemoNotes.git
